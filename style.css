@@ -20,12 +20,12 @@ body {
 
 .wrapper {
 	background: url(img/newyork_blur.jpg) 50%/cover no-repeat scroll;
-	padding: 0 15px 15px;
+	padding: 0 15px;
 }
 
 .container {
 	max-width: 1200px;
-	background: url('img/newyork_blur_1.jpg') 50% / cover no-repeat fixed;
+	background: url('img/newyork_blur_1.jpg') 50% /cover no-repeat fixed;
 	color: #fff;
 	text-align: center;
 	margin: 0 auto;
